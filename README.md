@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @somple09
+- 👀 I’m interested in Frontend Devolop
+- 🌱 I’m currently learning HTML, CSS, Vanilla JS, React
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ... jklee4741@gmail.com
